@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./threejs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -29,6 +29,11 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import  testimonial4  from "./Testimonial4.png";
+import  testimonial2  from "./Testimonial2.jpeg";
+import  testimonial1  from "./Testimonial1.jpeg";
+import testimonial3 from "./Testimonial3.jpeg"
 
 export {
   logo,
@@ -59,4 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  testimonial4,
+  testimonial2,
+  testimonial1,
+  testimonial3
 };
